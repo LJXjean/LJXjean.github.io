@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jinxing&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ljxjean.github.io/</link>
     <description>Recent content on Jinxing&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <copyright>[©2024 SonnyCalcr&#39;s Blog](https://sonnycalcr.github.io/)</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <copyright>©2024 Jinxing&amp;rsquo;s Blog</copyright>
+    <atom:link href="https://ljxjean.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

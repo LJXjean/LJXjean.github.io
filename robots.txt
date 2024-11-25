@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://ljxjean.github.io/sitemap.xml
